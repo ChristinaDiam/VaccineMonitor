@@ -4,7 +4,7 @@ This Project implements a program that receives, processes, records and answers 
 
 In particular, there is a set of structures (bloom filters, linked lists, skip lists) that allow  the input and querying of large volumes of citizenRecord type records. In addition a bash script was implemented to create .txt files for testing inputs (citizen records).
 
-	The Project contains the following files: main.cpp, bloomfilter.cpp, bloomfilter.h, citizen.cpp, citizen.h, hash.cpp, hash.h, helpmain.cpp, helpmain.h, list.cpp, list.h, skiplst.cpp, skiplist.h, Makefile and testFile.sh.
+**The Project contains the following files: main.cpp, bloomfilter.cpp, bloomfilter.h, citizen.cpp, citizen.h, hash.cpp, hash.h, helpmain.cpp, helpmain.h, list.cpp, list.h, skiplst.cpp, skiplist.h, Makefile and testFile.sh.**
 
 The program reads data from a file, which it stores in memory, but first doing the necessary validity checks for each record. Then it prints out the options/actions a user can take. 
 
